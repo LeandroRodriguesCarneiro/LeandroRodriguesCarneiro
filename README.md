@@ -22,7 +22,7 @@
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRodrigues-Dev&hide_progress=true&theme=dracula&locale=PT-br&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRodrigues-Dev&layout=compact&theme=dracula&locale=PT-br&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
