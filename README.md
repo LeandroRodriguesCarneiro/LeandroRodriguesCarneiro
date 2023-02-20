@@ -1,16 +1,51 @@
-### Hi there 👋
+## Olá Sou Leandro Rodrigues
 
-<!--
-**LeandroRodrigues-Dev/LeandroRodrigues-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou fazendo estágio de suporte técnico de 3CX e automações web. 
+- 🌱 Estou estudando: Python, PHP, Javascript.
+- 😄 Pronomes: ele/dele.
+<div>
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true&theme=dracula&locale=PT-br&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height = "180vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true" />
+  </picture>
 
-Here are some ideas to get you started:
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRodrigues-Dev&hide_progress=true&show_icons=true&theme=dracula&locale=PT-br&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height = "180vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true" />
+  </picture>
+  Link do github stats <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">click aqui</a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</div>
+<br>
+<div>
+  <a href="mailto:leandrorodrigues131531@gmail.com" target="_blank"><img align="center" height = "30vh" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank""/></a>
+  <a href="www.linkedin.com/in/leandrodrigues1604" target="_blank"><img align="center" height = "30vh" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank""/></a>
+</div>
