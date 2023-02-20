@@ -35,8 +35,9 @@
   />
   <img height = "180vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true" />
   </picture>
-  Link do github stats <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">click aqui</a>
 </div>
+
+Link do github stats <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">click aqui</a>
 
 <div style="display: inline_block">
   <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
