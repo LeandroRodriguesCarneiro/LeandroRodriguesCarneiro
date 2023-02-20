@@ -48,4 +48,5 @@
 <div>
   <a href="mailto:leandrorodrigues131531@gmail.com" target="_blank"><img align="center" height = "30vh" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="www.linkedin.com/in/leandrodrigues1604" target="_blank"><img align="center" height = "30vh" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  
 </div>
