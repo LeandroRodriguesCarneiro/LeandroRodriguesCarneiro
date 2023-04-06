@@ -6,34 +6,34 @@
 <div>
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true&theme=dracula&locale=PT-br&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true&theme=dracula&locale=PT-br&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height = "150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true" />
+  <img height = "150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true" />
   </picture>
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRodrigues-Dev&layout=compact&theme=dracula&locale=PT-br&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRodriguesCarneiro&layout=compact&theme=dracula&locale=PT-br&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height = "150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodrigues-Dev&show_icons=true" />
+  <img height = "150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true" />
   </picture>
 </div>
 
