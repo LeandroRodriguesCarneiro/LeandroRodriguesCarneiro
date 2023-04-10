@@ -1,7 +1,7 @@
 ## Olá Sou Leandro Rodrigues
 
-- 🔭 Estou fazendo estágio de suporte técnico de 3CX e automações web. 
-- 🌱 Estou estudando: Python, PHP, Javascript.
+- 🔭 Autlamente estou em busca de opurtunidades de estagio ou vagas de programador junior em Python ou PHP. 
+- 🌱 Estou estudando: Python, PHP, Javascript e Cursando Ciência da Computação.
 - 😄 Pronomes: ele/dele.
 <div>
   <picture>
@@ -33,7 +33,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height = "180vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true" />
+  <img height = "150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=LeandroRodriguesCarneiro&show_icons=true" />
   </picture>
 </div>
 
