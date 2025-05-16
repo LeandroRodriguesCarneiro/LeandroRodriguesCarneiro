@@ -1,7 +1,7 @@
 ## Olá Sou Leandro Rodrigues
 
 - 🔭 Atualmente estou em busca de opurtunidades de estágio ou vagas de programador junior com as linguagens Python ou PHP. 
-- 🌱 Estou estudando: Python, PHP, Javascript e Cursando Ciência da Computação.
+- 🌱 Estou estudando: Python e Cursando Ciência da Computação.
 - 😄 Pronomes: ele/dele.
 <div>
   <picture>
